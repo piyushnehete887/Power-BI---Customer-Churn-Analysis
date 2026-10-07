@@ -41,5 +41,6 @@ This project provides an end-to-end exploratory data analysis of customer retent
 * **Custom Dark Theme UI:** Designed with a modern, high-contrast dark visual aesthetic, neon accents, and neatly organized metric cards.
 
 ---<img width="967" height="547" alt="Screenshot 2026-10-01 180457" src="https://github.com/user-attachments/assets/98382e86-9e49-4db1-920f-28f181052335" />
+<img width="963" height="548" alt="Screenshot 2026-10-01 180606" src="https://github.com/user-attachments/assets/b1f1d489-b307-4c67-b7ce-3a6efcccc4b2" />
 
 
