@@ -40,13 +40,6 @@ This project provides an end-to-end exploratory data analysis of customer retent
 * **Global Slicers & Filters:** Interactive filters enabled for **Gender**, **Contract Type**, **Internet Service**, **Tenure Segment**, **Payment Method**, and **Paperless Billing** for deep exploratory filtering.
 * **Custom Dark Theme UI:** Designed with a modern, high-contrast dark visual aesthetic, neon accents, and neatly organized metric cards.
 
----
+---<img width="967" height="547" alt="Screenshot 2026-10-01 180457" src="https://github.com/user-attachments/assets/98382e86-9e49-4db1-920f-28f181052335" />
 
-## 🚀 Getting Started
 
-To view or edit this Power BI project locally:
-
-1. **Prerequisites:** Ensure you have [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
-2. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
