@@ -40,9 +40,10 @@ This project provides an end-to-end exploratory data analysis of customer retent
 * **Global Slicers & Filters:** Interactive filters enabled for **Gender**, **Contract Type**, **Internet Service**, **Tenure Segment**, **Payment Method**, and **Paperless Billing** for deep exploratory filtering.
 * **Custom Dark Theme UI:** Designed with a modern, high-contrast dark visual aesthetic, neon accents, and neatly organized metric cards.
 
----<img width="967" height="547" alt="Screenshot 2026-10-01 180457" src="https://github.com/user-attachments/assets/98382e86-9e49-4db1-920f-28f181052335" />
+---<img width="962" height="541" alt="Screenshot 2026-10-01 180615" src="https://github.com/user-attachments/assets/e3edccff-7085-4c93-9f77-755ac3c72263" />
 <img width="963" height="548" alt="Screenshot 2026-10-01 180606" src="https://github.com/user-attachments/assets/c30d2a1a-c1fd-41d1-9861-39ae80ad9fb7" />
-<img width="962" height="541" alt="Screenshot 2026-10-01 180615" src="https://github.com/user-attachments/assets/e3edccff-7085-4c93-9f77-755ac3c72263" />
 <img width="971" height="537" alt="Screenshot 2026-10-01 180509" src="https://github.com/user-attachments/assets/fe5ebc8f-ffc0-4cca-97f5-59771ea12395" />
+<img width="967" height="547" alt="Screenshot 2026-10-01 180457" src="https://github.com/user-attachments/assets/98382e86-9e49-4db1-920f-28f181052335" />
+
 
 
